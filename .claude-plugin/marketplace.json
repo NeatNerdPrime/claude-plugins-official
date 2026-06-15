@@ -109,7 +109,7 @@
         "url": "https://github.com/airwallex/airwallex-marketplace.git",
         "path": "plugins/airwallex",
         "ref": "master",
-        "sha": "683a7536f9445c07439d087607b44b0383b8c41d"
+        "sha": "d772717065d55180eb44231de60d5aedfc843122"
       },
       "homepage": "https://www.airwallex.com/docs"
     },
@@ -291,7 +291,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "a9d1c70fe7442a97678e82b62c7c61bcb0deeaea"
+        "sha": "7cd875e7e48b45469d66afe3988ed3cc9b144546"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -320,7 +320,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-core",
         "ref": "main",
-        "sha": "a9d1c70fe7442a97678e82b62c7c61bcb0deeaea"
+        "sha": "7cd875e7e48b45469d66afe3988ed3cc9b144546"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -336,7 +336,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-data-analytics",
         "ref": "main",
-        "sha": "a9d1c70fe7442a97678e82b62c7c61bcb0deeaea"
+        "sha": "7cd875e7e48b45469d66afe3988ed3cc9b144546"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -804,7 +804,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/CodSpeedHQ/codspeed.git",
-        "sha": "32229fdfb99928e5e946b8b53c26f4696fdbda09"
+        "sha": "ba5799e38d88632b62e39074238e233bc870f433"
       },
       "homepage": "https://codspeed.io"
     },
@@ -918,7 +918,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/dash0hq/dash0-agent-plugin.git",
-        "sha": "19f4a5f96306bd316a124fcf35d56d54d8f99aa1"
+        "sha": "71b44017cde60169616cc2f0ff8129cd3057797e"
       },
       "homepage": "https://dash0.com/"
     },
@@ -1361,7 +1361,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "b158870d8f1cd2241d00eb46fa0d2d1c2aa9dfb7"
+        "sha": "e6da47d8f8bf604b2de2efcb03e4b6a7fb0515cb"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2141,7 +2141,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/quarkusio/quarkus-agent-mcp.git",
-        "sha": "bcab0174a0f3a076a265958d9017da15c1f87d01"
+        "sha": "a2b67f5925ec10a8bb1d1905cbb91d0b4efb904d"
       },
       "homepage": "https://quarkus.io"
     },
@@ -2562,7 +2562,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/SonarSource/sonarqube-agent-plugins.git",
-        "sha": "5434d7f5cf7aa6e04ff491d59ae98ed6cda64bd0"
+        "sha": "8c46904b2c21eb98d827c185e15ef5f6dd820312"
       },
       "homepage": "https://www.sonarsource.com"
     },
@@ -2895,7 +2895,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "a62c26eb185e5dc1cc05fef27ddf654a68e15165"
+        "sha": "75bb86e43cad1bfdc0e51f541cd44f9612c1deee"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
