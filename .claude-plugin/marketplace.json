@@ -35,7 +35,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "e3971a70ecf47c0acadcd1852d9eb10e820e83f0"
+        "sha": "c467bf831064ebda26f39dd30c02d7cce03eb26c"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
@@ -275,7 +275,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "fcc4f206e938116c2abb44f3484235e6f728ced2"
+        "sha": "b595bdb9b574569e864eef86c3d48c06e2cf414c"
       },
       "homepage": "https://auth0.com/docs/quickstart/agent-skills"
     },
@@ -444,7 +444,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/bigquery-data-analytics.git",
-        "sha": "9cee2a03105d74648231ed3a5c4a63c4f194790d"
+        "sha": "4e64d8488e95697a348b88b8ee47f0e676b2544b"
       },
       "homepage": "https://github.com/gemini-cli-extensions/bigquery-data-analytics"
     },
@@ -460,7 +460,7 @@
         "url": "https://github.com/boltz-bio/boltz-api-skills.git",
         "path": "plugins/boltz",
         "ref": "main",
-        "sha": "dfba3a22527d99378e0aae5246ae6e3a0e7d9ee2"
+        "sha": "dee5b9962b5edd8cedc7b8405d14261852441d96"
       },
       "homepage": "https://boltz.bio"
     },
@@ -518,7 +518,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "b40b6d48e5c469bcaa398857c7306ce9445c2a9d"
+        "sha": "09f9e88252d8bc5ad4c452042f0b871be817ed07"
       },
       "homepage": "https://carta.com"
     },
@@ -534,7 +534,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "b40b6d48e5c469bcaa398857c7306ce9445c2a9d"
+        "sha": "09f9e88252d8bc5ad4c452042f0b871be817ed07"
       },
       "homepage": "https://carta.com"
     },
@@ -550,7 +550,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "b40b6d48e5c469bcaa398857c7306ce9445c2a9d"
+        "sha": "09f9e88252d8bc5ad4c452042f0b871be817ed07"
       },
       "homepage": "https://carta.com"
     },
@@ -577,7 +577,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "e77101e5dc53f9f9541eb91916eedb53495544cc"
+        "sha": "ed02047ae90f25c4c15adb8fd7e224b963f43135"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -959,7 +959,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack.git",
-        "sha": "be57e961ec11b97b7b16b04eb81065d35c81e1e5"
+        "sha": "65a480a04dc09fe51fab66fde61b1a2baa443741"
       },
       "homepage": "https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack"
     },
@@ -1377,7 +1377,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "42696f0af49fe8a1eeabef40ae1e7ef9c2228bd5"
+        "sha": "f03dfaa599454fad7f94d2c0d84ccccae7f68325"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -1646,7 +1646,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/lusha-oss/lusha-mcp-plugin.git",
-        "sha": "aafe0a59cb143d0adc711af2813cd3b9cd5693d0"
+        "sha": "affbc76b03c1a46c0dffc5b7a374cf7af17b26e8"
       },
       "homepage": "https://www.lusha.com"
     },
@@ -1929,7 +1929,7 @@
         "url": "https://github.com/growthxai/output.git",
         "path": "coding_assistants/claude/plugins/outputai",
         "ref": "main",
-        "sha": "de3005264722a07a5d71bc988301555ee28e8063"
+        "sha": "bd6bd4960b00f340c1e345620a8eb42d6c696e5f"
       },
       "homepage": "https://output.ai"
     },
@@ -2392,7 +2392,7 @@
         "url": "https://github.com/SAP/open-ux-tools.git",
         "path": "packages/fiori-mcp-server",
         "ref": "main",
-        "sha": "eebdc834747fb88f1e2a4862deb5fd73da3263b0"
+        "sha": "289f4e94043d95fb7f26e78832e07c2dcaccd390"
       },
       "homepage": "https://github.com/SAP/open-ux-tools/tree/main/packages/fiori-mcp-server"
     },
@@ -2459,7 +2459,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/getsentry/sentry-for-claude.git",
-        "sha": "d7247475760fab1be3ffd85bf32dfe10ab33eb36"
+        "sha": "62f084f3231264c8694da04bfcebd1ce0f5ca78b"
       },
       "homepage": "https://github.com/getsentry/sentry-for-claude/tree/main"
     },
@@ -2475,7 +2475,7 @@
         "url": "https://github.com/getsentry/cli.git",
         "path": "plugins/sentry-cli",
         "ref": "main",
-        "sha": "1994c274416c0ac1c924eb66e8c94882c260cb3a"
+        "sha": "4fda3dc169b914a8dec53c18d127ccbe67dbbf3e"
       },
       "homepage": "https://sentry.io"
     },
@@ -2978,7 +2978,7 @@
         "url": "https://github.com/zapier/zapier-mcp.git",
         "path": "plugins/zapier",
         "ref": "main",
-        "sha": "14340013c63448a6353d6edb84e7f87722cb0e42"
+        "sha": "ea8ed6b4de66e9bb46c12b3a38da8286e3770ad9"
       },
       "homepage": "https://github.com/zapier/zapier-mcp/tree/main/plugins/zapier"
     },
