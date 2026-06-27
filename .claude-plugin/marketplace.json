@@ -244,7 +244,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/atlassian/atlassian-mcp-server.git",
-        "sha": "38a17806fac2a1b546ec1b437c5f76f7c9cc0adc"
+        "sha": "55cfdc55afed1e273354f840a238421fbd9eee86"
       },
       "homepage": "https://github.com/atlassian/atlassian-mcp-server"
     },
@@ -276,7 +276,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "aacefa7dcbdf2d32ac14d3d7790b610cf716bd3c"
+        "sha": "3e3a5d84fe922378bd2c2eafb7f7986759e3c87e"
       },
       "homepage": "https://auth0.com"
     },
@@ -337,7 +337,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-core",
         "ref": "main",
-        "sha": "49c4592dc490f569d5adf0c483239886bad2f09b"
+        "sha": "7898a91483218173d096db3de6892c2dc545d160"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -353,7 +353,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-data-analytics",
         "ref": "main",
-        "sha": "49c4592dc490f569d5adf0c483239886bad2f09b"
+        "sha": "49ca75209219a89ac43690d6ca0a59d976933ee8"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -425,7 +425,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/microsoft/azure-skills.git",
-        "sha": "c752fe85c8e499e32e34eb8a5498c22d5dd586c8"
+        "sha": "2cd48ca625cddcc1d377d2861fbddd54417c70cc"
       },
       "homepage": "https://github.com/microsoft/azure-skills"
     },
@@ -540,22 +540,6 @@
       "homepage": "https://buildkite.com"
     },
     {
-      "name": "canva",
-      "description": "Create, edit, review, resize, and brand-check Canva designs with the Canva MCP server.",
-      "author": {
-        "name": "Canva"
-      },
-      "category": "design",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/canva-sdks/canva-skills.git",
-        "path": "plugins/canva",
-        "ref": "main",
-        "sha": "b56291ea0a36d0a941e1478b47959be5f1771dee"
-      },
-      "homepage": "https://www.canva.com"
-    },
-    {
       "name": "carta-cap-table",
       "description": "Carta Cap Table plugin — skills and hooks for querying cap tables, grants, SAFEs, 409A valuations, waterfall scenarios, and more",
       "author": {
@@ -567,7 +551,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "8ef1de26aa8d39096672e8d431ac6c46710f44db"
+        "sha": "d73954d3d9ce1e3fce1ec2b9ee6819922dd539e3"
       },
       "homepage": "https://carta.com"
     },
@@ -599,7 +583,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "8ef1de26aa8d39096672e8d431ac6c46710f44db"
+        "sha": "4bd05d342e5908b9e246c4806c92ffa1872b22e5"
       },
       "homepage": "https://carta.com"
     },
@@ -626,7 +610,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "e5bd334c97b4f25207cad586684cca8208f1657e"
+        "sha": "6a9466378c13b6ccba91b54091ea83a5ca37a8db"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -997,7 +981,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/dash0hq/dash0-agent-plugin.git",
-        "sha": "4eac30a47b4dd3819e0719f9f01b9772cde7ca24"
+        "sha": "fb9a6207929e5fc45c2661e5c74a2e077b3de79d"
       },
       "homepage": "https://dash0.com/"
     },
@@ -1008,7 +992,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "d33a14ddd4cd8045f90acfe49d2552120feeeced"
+        "sha": "ed2fe757381ff42337fd7bce56a50f31134d9dce"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -1022,7 +1006,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack.git",
-        "sha": "9bc90f9ec22b156a71f37c45157cf3f551005a45"
+        "sha": "86cd0201237ed5ac30d8645c2ba50000fac84972"
       },
       "homepage": "https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack"
     },
@@ -1061,7 +1045,7 @@
         "url": "https://github.com/databricks/databricks-agent-skills.git",
         "path": "plugins/databricks/claude",
         "ref": "main",
-        "sha": "ae99f56bbadc5ac0bac8df11791eb6a5224a2a36"
+        "sha": "d510ea1076aabb5e67ba8a32995efe95581eb536"
       },
       "homepage": "https://developers.databricks.com/"
     },
@@ -1195,7 +1179,7 @@
         "url": "https://github.com/dropbox/dropbox-ai-plugins.git",
         "path": "claude",
         "ref": "main",
-        "sha": "4135e81caf8275b4c97caef244479e0dcb6fb823"
+        "sha": "2f9c81a5d012cc9c389132331a93f4ade06a97a9"
       },
       "homepage": "https://www.dropbox.com"
     },
@@ -1237,7 +1221,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/exa-labs/exa-mcp-server.git",
-        "sha": "a4dcddf69b701debe9d7caca30e6fa4610ce553c"
+        "sha": "f7e9032308a6dca9dbad76d22bc3cda287ba6775"
       },
       "homepage": "https://exa.ai/docs/reference/exa-mcp"
     },
@@ -1327,7 +1311,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/firecrawl/firecrawl-claude-plugin.git",
-        "sha": "52b6c0970b904b10641f223dbeb8f6b35643521c"
+        "sha": "069551a7d2b0379ea7589a9e2f46062e69820a2d"
       },
       "homepage": "https://github.com/firecrawl/firecrawl-claude-plugin.git"
     },
@@ -1458,7 +1442,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/hunter-io/claude-plugin.git",
-        "sha": "6db1c0ae9a789da21b415d65a59a3409dd99ca38"
+        "sha": "0bea093cd18c4725f7ded7bd49400df578421cd6"
       },
       "homepage": "https://hunter.io"
     },
@@ -1472,7 +1456,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "e3edbd55cff35884f4f0c90164e1337385e9ad08"
+        "sha": "92385711dccbe89a6673357a6f39da7379d68528"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -1579,7 +1563,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/claude-observability-plugin.git",
-        "sha": "4615df55428bdcd8a2095fdea2cbe970b2c5152e"
+        "sha": "938df41639efcaa22790b1a216308b6ed626a8b7"
       },
       "homepage": "https://langfuse.com/integrations/other/claude-code"
     },
@@ -1883,7 +1867,7 @@
         "url": "https://github.com/awslabs/startups.git",
         "path": "migrate/plugins/migration-to-aws",
         "ref": "main",
-        "sha": "01c38bf635e5c5ad24e5ea1afbf34b6f41518317"
+        "sha": "e49c21bf8b4883a9646938c00091633dfb8f483f"
       },
       "homepage": "https://github.com/awslabs/startups"
     },
@@ -2007,7 +1991,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Nimbleway/agent-skills.git",
-        "sha": "958fca1cca704c247fe75929c572fbad6a302ba5"
+        "sha": "1a599ea15f71d20cc6f85692030021146931997a"
       },
       "homepage": "https://docs.nimbleway.com/integrations/agent-skills/plugin-installation"
     },
@@ -2082,7 +2066,7 @@
         "url": "https://github.com/oracle-samples/oracle-aidp-samples.git",
         "path": "ai/claude-code-plugins/oracle-ai-data-platform-workbench-spark-connectors",
         "ref": "main",
-        "sha": "ca1ab4e5689bdc6cb22b842fed5d98829847fd64"
+        "sha": "13e7a9139b3b62172119c7fc1a63bf4a2eac919d"
       },
       "homepage": "https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html"
     },
@@ -2288,7 +2272,7 @@
         "url": "https://github.com/pydantic/skills.git",
         "path": "plugins/ai",
         "ref": "main",
-        "sha": "96e5d761173b496a4ce4188ce4aaada86d93a5c3"
+        "sha": "f0c20b9895f06d58823032f13e68c6aaae9dd3fa"
       },
       "homepage": "https://github.com/pydantic/skills/tree/main/plugins/ai"
     },
@@ -2683,7 +2667,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/getsentry/plugin-claude.git",
-        "sha": "83df938b934e154c5be2a059fab500711ac54c3f"
+        "sha": "f69cf097dd4c2fd56cab2738442e78848ff6d206"
       },
       "homepage": "https://github.com/getsentry/plugin-claude"
     },
@@ -2699,7 +2683,7 @@
         "url": "https://github.com/getsentry/cli.git",
         "path": "plugins/sentry-cli",
         "ref": "main",
-        "sha": "97e7fccea763d388c49f5f69eaebac59749bf65d"
+        "sha": "20b469aa5a21acd9bad0650670a08dbe671f499b"
       },
       "homepage": "https://sentry.io"
     },
@@ -2786,7 +2770,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/slackapi/slack-mcp-plugin.git",
-        "sha": "acf7fcd0e07177e0e54eb08472f3488587607ba0"
+        "sha": "1559729e80eafb1e93fba4aae30c43a85fe35355"
       },
       "homepage": "https://github.com/slackapi/slack-mcp-plugin/tree/main"
     },
@@ -2876,7 +2860,7 @@
         "url": "https://github.com/stripe/ai.git",
         "path": "providers/claude/plugin",
         "ref": "main",
-        "sha": "f54c9e6c0e8b6cfe4e648745eec68ecab3ddc994"
+        "sha": "23b54f12503eb18bb05eb9de9fbaeb301bec80b0"
       },
       "homepage": "https://github.com/stripe/ai/tree/main/providers/claude/plugin"
     },
@@ -2888,7 +2872,7 @@
         "source": "url",
         "url": "https://github.com/sumup/sumup-skills.git",
         "path": "providers/claude/plugin",
-        "sha": "700da2e866a71c7acbfcb0f2940ad7fa19955ae4"
+        "sha": "b69ff6f5afcd5934af70529e529c0dd8abe46cbe"
       },
       "homepage": "https://www.sumup.com/"
     },
@@ -2935,20 +2919,6 @@
       }
     },
     {
-      "name": "tavily",
-      "description": "Build AI applications with real-time web data using Tavily's search, extract, crawl, and research APIs.",
-      "author": {
-        "name": "Tavily Team"
-      },
-      "category": "development",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/tavily-ai/skills.git",
-        "sha": "ea5e8201b0d3ed9c10b70b71187589bd761fe2d2"
-      },
-      "homepage": "https://www.tavily.com/"
-    },
-    {
       "name": "teamcity-cli",
       "description": "Agent skill for interacting with TeamCity CI/CD using the teamcity CLI. Enables Claude to explore builds, view logs, start jobs, manage queues, agents, and more.",
       "author": {
@@ -2958,7 +2928,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/JetBrains/teamcity-cli.git",
-        "sha": "32dfd91cc8a9b6d44f47896c1ef1b183ab58e973"
+        "sha": "42ce6a22b1a8167120adbfa8de8b79f36e698133"
       },
       "homepage": "https://www.jetbrains.com/teamcity/"
     },
@@ -3092,20 +3062,6 @@
       "homepage": "https://github.com/UI5/plugins-coding-agents"
     },
     {
-      "name": "unreal-engine-skills-for-claude-code",
-      "description": "Control Unreal Editor directly from Claude Code via MCP. Hundreds of tools exposed via Unreal's ToolsetRegistry across 30+ toolsets: actors, blueprints, materials, Niagara, Control Rigs, Sequencer, State Trees, widgets, Gameplay Ability System, automation testing, and more.",
-      "author": {
-        "name": "Epic Games"
-      },
-      "category": "development",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin.git",
-        "sha": "766fb42370d9e251f7524fffb12cfdbc5b11a426"
-      },
-      "homepage": "https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor"
-    },
-    {
       "name": "valtown",
       "description": "Build and deploy on Val Town. Bundles the Val Town MCP server and platform skills (HTTP vals, cron/intervals, SQLite, email, OAuth, React UI, third-party integrations, templates).",
       "author": {
@@ -3117,7 +3073,7 @@
         "url": "https://github.com/val-town/plugins.git",
         "path": "plugin",
         "ref": "main",
-        "sha": "80cc05b9229aaec38b5da5e9d33d9898e1e614cd"
+        "sha": "22594eb245d5b06714c99248d68c333169274b21"
       },
       "homepage": "https://val.town"
     },
@@ -3248,7 +3204,7 @@
         "url": "https://github.com/zapier/zapier-mcp.git",
         "path": "plugins/zapier",
         "ref": "main",
-        "sha": "11bfb606bd1984beef15f6e16257f99ee47c7f29"
+        "sha": "469651fe7fdaa3dfc6a476ef5bad6c354773366a"
       },
       "homepage": "https://github.com/zapier/zapier-mcp/tree/main/plugins/zapier"
     },
@@ -3316,7 +3272,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "6b6c44cfe3c4e00860401a697d401dcb3b6e3737"
+        "sha": "c39789078b848160a695947907db3ba40b7a2bce"
       },
       "homepage": "https://langfuse.com"
     }
