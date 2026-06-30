@@ -57,7 +57,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/SalesforceAIResearch/agentforce-adlc.git",
-        "sha": "534a608c13b49b776e879b0d314e7b8e5a998bf1"
+        "sha": "2b2f59d9f29d3dae3a4bec0b953237f03bbba7af"
       },
       "homepage": "https://github.com/SalesforceAIResearch/agentforce-adlc"
     },
@@ -997,7 +997,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/dash0hq/dash0-agent-plugin.git",
-        "sha": "0952f646ef121eb6b030663e5dff39df3467cb9a"
+        "sha": "4eac30a47b4dd3819e0719f9f01b9772cde7ca24"
       },
       "homepage": "https://dash0.com/"
     },
@@ -1061,7 +1061,7 @@
         "url": "https://github.com/databricks/databricks-agent-skills.git",
         "path": "plugins/databricks/claude",
         "ref": "main",
-        "sha": "8a3fe08aa55bb5e84ce86f61379848d6a35cf05c"
+        "sha": "ae99f56bbadc5ac0bac8df11791eb6a5224a2a36"
       },
       "homepage": "https://developers.databricks.com/"
     },
@@ -1458,7 +1458,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/hunter-io/claude-plugin.git",
-        "sha": "5116f8b1356621e1aa52b2247a8fb3bbc850a460"
+        "sha": "6db1c0ae9a789da21b415d65a59a3409dd99ca38"
       },
       "homepage": "https://hunter.io"
     },
@@ -1685,7 +1685,7 @@
         "url": "https://github.com/pydantic/skills.git",
         "path": "plugins/logfire",
         "ref": "main",
-        "sha": "07952dc4bcdfed05b63be8abab6ac277151ca18d"
+        "sha": "f0c20b9895f06d58823032f13e68c6aaae9dd3fa"
       },
       "homepage": "https://github.com/pydantic/skills/tree/main/plugins/logfire"
     },
@@ -2632,7 +2632,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/SAP/mdk-mcp-server.git",
-        "sha": "653859324156770cc758889faaa5643a3fd01ad4"
+        "sha": "a3df54e69dfcf193b92b0c081a4acbeefb92b419"
       },
       "homepage": "https://help.sap.com/docs/MDK"
     },
@@ -3003,7 +3003,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/twilio/ai.git",
-        "sha": "7d15b215240df28e86a0b7305520524a2c005005"
+        "sha": "aa67a6d476107d6742f31a53d68b10749552930f"
       },
       "homepage": "https://www.twilio.com"
     },
@@ -3195,7 +3195,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "e2b591ea60a390c6f133366872e8f7fee5c6be27"
+        "sha": "75d59c5f85f7719a25328547b0386ceb5f7c7501"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
