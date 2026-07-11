@@ -659,7 +659,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/circlebackai/claude-code-plugin.git",
-        "sha": "6369dec7da4059dd0a12cf1b62ba749799ee15ef"
+        "sha": "a610634c95ab310accf20a0cabdf0fa7ab784fa3"
       },
       "homepage": "https://github.com/circlebackai/claude-code-plugin.git"
     },
@@ -1556,7 +1556,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "dda09c8d6434158de397c6ec393b83c15464a304"
+        "sha": "16eb11367a5f0b4213874b626b305e80edcf1d24"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
