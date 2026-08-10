@@ -370,7 +370,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "ff9618bb145f326341979ec976d7e722a7b001c0"
+        "sha": "b7d5f82c3f09a5af9d140d324b73d2aba922e549"
       },
       "homepage": "https://auth0.com"
     },
@@ -386,7 +386,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "9766f27101bfb99edecfcbf22f023a4d68d3fddc"
+        "sha": "a91d07d7402c518b1cf29214315eaa5ec2de778c"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -778,7 +778,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "5ddbffd0f364ecd073f4d42a56109950b1421a57"
+        "sha": "8028bfe3abaecb67422530d05327c5ec72c53753"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -897,7 +897,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ClickHouse/clickhouse-claude-code-plugin.git",
-        "sha": "988a7a39834af9c9e14ec3650365243e2cfc6882"
+        "sha": "fcce1175a863f0833875ad696373ac9f2a408e6e"
       },
       "homepage": "https://github.com/ClickHouse/clickhouse-claude-code-plugin"
     },
@@ -1205,7 +1205,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/dash0hq/dash0-agent-plugin.git",
-        "sha": "f0338c9838d07d9ff181d9ba70aaf6306556cd5b"
+        "sha": "2e5cec4ffb22e7d654b0a65f3906468302644d0a"
       },
       "homepage": "https://dash0.com/"
     },
@@ -1353,7 +1353,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/confident-ai/deepeval.git",
-        "sha": "f97964445c3e7877c855f47453893b0b2f942106"
+        "sha": "5217f031c1dcf117bd34d3c290faa3ec7d0f3622"
       },
       "homepage": "https://github.com/confident-ai/deepeval"
     },
@@ -1802,7 +1802,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "68205dbbc159412209663ede7732629b4f50bcf1"
+        "sha": "17ac986bfe0fffbbc8aac2a68b9e9814f561b562"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2231,7 +2231,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mergifyio/mergify-cli.git",
-        "sha": "cc0c6ba1379819b1083c8c1450a8b82f2e485d0e"
+        "sha": "c86246521e8fff8b76f88f35ea789279579af328"
       },
       "homepage": "https://mergify.com"
     },
@@ -2355,7 +2355,7 @@
         "url": "https://github.com/neondatabase/agent-skills.git",
         "path": "plugins/neon-postgres",
         "ref": "main",
-        "sha": "b42b30e5690a60095cabcf406958cd7d73f5724a"
+        "sha": "329882a358f05b7b1b24d64f56dc3b6d3a454f54"
       },
       "homepage": "https://github.com/neondatabase/agent-skills/tree/main/plugins/neon-postgres"
     },
@@ -2767,7 +2767,7 @@
         "url": "https://github.com/pydantic/skills.git",
         "path": "plugins/ai",
         "ref": "main",
-        "sha": "e5f7cb13d01561fe3735040ed37596abd9b83976"
+        "sha": "6fb6ebea92778d28f8cdd84848246a6ca84b4b59"
       },
       "homepage": "https://github.com/pydantic/skills/tree/main/plugins/ai"
     },
@@ -2845,7 +2845,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/quarkusio/quarkus-agent-mcp.git",
-        "sha": "805d8b596b12df192ebf3602b5cb3c1042f6a7a2"
+        "sha": "d39fa1cf9c1b8bcdc39265ef64b5b128605557e9"
       },
       "homepage": "https://quarkus.io"
     },
@@ -2918,7 +2918,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Digital-Process-Tools/claude-remember.git",
-        "sha": "698b9ca4a99c8e36c413a667d6f7ea7aedd39a25"
+        "sha": "a2a3e42bebfdb787391be414f9e76fcba37c4946"
       },
       "homepage": "https://github.com/Digital-Process-Tools/claude-remember"
     },
@@ -3432,7 +3432,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/confluentinc/agent-skills.git",
-        "sha": "e311f93620480e47a168e88c5aadcf6373632f1d"
+        "sha": "0b4f9f01fcbf2cbc174e62b9fe2df9941c2d6972"
       },
       "homepage": "https://www.confluent.io"
     },
@@ -3810,7 +3810,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "2936837b4f3a00bdffc8ea2d548bf4d4f6e962b9"
+        "sha": "5ba0173577dd63a7988f0d958030935dccb01632"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
