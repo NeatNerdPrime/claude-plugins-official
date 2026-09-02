@@ -2238,7 +2238,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/MicrosoftDocs/mcp.git",
-        "sha": "caa3d670bf2814171dba4f7346ece5080964021e"
+        "sha": "f1fbeb32fc51805cc6727707e9f0fea766e3a0b1"
       },
       "homepage": "https://github.com/microsoftdocs/mcp"
     },
@@ -4040,7 +4040,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ActiveCampaign/activecampaign-plugin.git",
-        "sha": "0ff858728bc52aee335d5475b0d4eb5f3a9589b0"
+        "sha": "964b2f9f9ad4c918645adf5efd6d87c2fca36c84"
       },
       "homepage": "https://www.activecampaign.com"
     }
