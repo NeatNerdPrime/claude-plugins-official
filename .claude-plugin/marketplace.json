@@ -705,7 +705,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "6ab81016389cac69e03ed79114d75f31bc8e7bfd"
+        "sha": "e0b245f0621c5333ecae47a256c851c4b2e79cb4"
       },
       "homepage": "https://carta.com"
     },
@@ -721,7 +721,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "6ab81016389cac69e03ed79114d75f31bc8e7bfd"
+        "sha": "9970737943d11af5de5ebaae592aed42bcdc6ae7"
       },
       "homepage": "https://carta.com"
     },
@@ -737,7 +737,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "6ab81016389cac69e03ed79114d75f31bc8e7bfd"
+        "sha": "e0b245f0621c5333ecae47a256c851c4b2e79cb4"
       },
       "homepage": "https://carta.com"
     },
@@ -1729,20 +1729,6 @@
       }
     },
     {
-      "name": "govtribe",
-      "description": "Government contracting research and capture workflows in Claude: opportunity and pipeline briefs, bid/no-bid and competitor analysis, price-to-win and proposal prep, powered by the GovTribe connector.",
-      "author": {
-        "name": "GovTribe"
-      },
-      "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/GovTribe/claude-plugin.git",
-        "sha": "d3e0c82c6c4f960320c010ceb8aabb463f1fb7d2"
-      },
-      "homepage": "https://govtribe.com"
-    },
-    {
       "name": "grafana-assistant",
       "description": "Skills and rules for developing and using the Grafana Assistant app and CLI.",
       "author": {
@@ -2142,22 +2128,6 @@
       "category": "productivity",
       "source": "./external_plugins/linear",
       "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/linear"
-    },
-    {
-      "name": "linq-alpha",
-      "description": "LinqAlpha financial research in Claude: guided setup for the LinqAlpha connector, capability-based source selection for fundamentals, estimates, transcripts, filings and market data, and an optional, opt-in default-source preference you can remove at any time. Requires a LinqAlpha account.",
-      "author": {
-        "name": "LinqAlpha"
-      },
-      "category": "productivity",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/linq-lab/linq-alpha-plugin.git",
-        "path": "plugins/linq-alpha",
-        "ref": "main",
-        "sha": "42202fdd4bd1cbb373c1f11a4114f173edffc437"
-      },
-      "homepage": "https://www.linqalpha.com"
     },
     {
       "name": "liquid-lsp",
@@ -3466,7 +3436,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Scandit/skills.git",
-        "sha": "2f0731a090eb9c23a64b6dcd9559cf113df3313f"
+        "sha": "6549761651140124712ba465d5337425116969b7"
       },
       "homepage": "https://www.scandit.com"
     },
@@ -4078,20 +4048,6 @@
         "sha": "2d3ec654b6a7d93e209afb8f2e8848eddcb9f17b"
       },
       "homepage": "https://val.town"
-    },
-    {
-      "name": "vanguard-advisor-tools",
-      "description": "Vanguard Advisor Tools for financial professionals: research and compare funds and ETFs across the industry and prepare for client conversations, using Vanguard's advisor connector in Claude.",
-      "author": {
-        "name": "Vanguard"
-      },
-      "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/Vanguard-oss/vanguard-advisor-tools.git",
-        "sha": "328fe9f61fe7a375b87a6492e265b4a5a955b0ce"
-      },
-      "homepage": "https://advisors.vanguard.com"
     },
     {
       "name": "vanta",
