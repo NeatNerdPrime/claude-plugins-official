@@ -1038,7 +1038,7 @@
     },
     {
       "name": "code-modernization",
-      "description": "Guided modernization for any legacy codebase: start with /modernize, get an assessment, an interactive map, the business rules mined from the code, and a plan you approve, then an upgrade, a rewrite or a rebuild with independent proof that the new code behaves like the old. Includes security hardening, a one-page report, specialist agents, and an optional live progress pane (early access).",
+      "description": "Modernize legacy codebases (COBOL, legacy Java/C++, monolith web apps) with a structured preflight / assess / map / extract-rules / brief / reimagine / transform / harden workflow, an interactive topology viewer, and specialist review agents",
       "author": {
         "name": "Anthropic",
         "email": "support@anthropic.com"
@@ -2155,7 +2155,7 @@
         "url": "https://github.com/linq-lab/linq-alpha-plugin.git",
         "path": "plugins/linq-alpha",
         "ref": "main",
-        "sha": "42202fdd4bd1cbb373c1f11a4114f173edffc437"
+        "sha": "0e79c288be9a50ba5ab6234747fe1cc2cb8e15e2"
       },
       "homepage": "https://www.linqalpha.com"
     },
